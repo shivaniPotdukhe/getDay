@@ -1,0 +1,19 @@
+{
+  "name": "getday",
+  "version": "1.0.0",
+  "description": "Get the day on particular date.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaniPotdukhe/getDay.git"
+  },
+  "author": "Shivani Potdukhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaniPotdukhe/getDay/issues"
+  },
+  "homepage": "https://github.com/shivaniPotdukhe/getDay#readme"
+}
